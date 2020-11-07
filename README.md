@@ -6,6 +6,7 @@ A dataset of Indonesian News for Named-Entity Recognition task. This dataset was
 Ner Tags: B-LOC, I-LOC, B-ORG, I-ORG, B-PER, I-PER, O
 PoS Tags: PROPN, AUX, NUM, NOUN, ADP, PRON, VERB, ADV, ADJ, PUNCT, DET, PART, SCONJ, CCONJ, SYM, X
 
+Example:
 ```
 Menurut ADP O
 Haposan NOUN B-PER
@@ -18,5 +19,22 @@ Sjahril PROPN B-PER
 dan CCONJ O
 diteruskan VERB O
 kepadanya ADP O
+. PUNCT O
+
+Di ADP O
+PPP PROPN B-ORG
+terdapat VERB O
+wacana NOUN O
+mengsung VERB O
+calon NOUN O
+presiden NOUN O
+non-kader PROPN O
+PPP PROPN B-ORG
+untuk ADP O
+maju VERB O
+pada ADP O
+pemilihan NOUN O
+presiden NOUN O
+2014 NUM O
 . PUNCT O
 ```
