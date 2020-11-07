@@ -39,12 +39,17 @@ presiden NOUN O
 . PUNCT O
 ```
 
+# Research Paper
+This dataset has been accepted by AACL-IJCNLP SRW 2020. If you are using this dataset in your work, please cite the following paper:
+
+```
 @inproceedings{khairunnisa2020,
   title={Towards a Standardized Dataset on Indonesian Named Entity Recognition},
   author={Siti Oryza Khairunnisa and Aizhan Imankulova and Mamoru Komachi},
   booktitle={Proceedings of the 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing: Student Research Workshop}
   year={2020}
 }
+```
 
 # MIT License
 
