@@ -40,7 +40,7 @@ presiden NOUN O
 ```
 
 # Research Paper
-This dataset has been accepted by AACL-IJCNLP SRW 2020. If you are using this dataset in your work, please cite the following paper:
+This work has been accepted by AACL-IJCNLP SRW 2020. If you are using this dataset in your work, please cite the following paper:
 
 ```
 @inproceedings{khairunnisa2020,
