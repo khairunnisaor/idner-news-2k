@@ -1162,9 +1162,9 @@ Surat NOUN O
 kabar NOUN O
 itu DET O
 mengutip VERB O
-kementerian NOUN O
-luar ADP O
-negeri NOUN O
+kementerian NOUN B-ORG
+luar ADP I-ORG
+negeri NOUN I-ORG
 yang PRON O
 menegaskan VERB O
 bahwa SCONJ O
@@ -5499,9 +5499,9 @@ kantor NOUN O
 berita NOUN O
 AFP PROPN B-ORG
 , PUNCT O
-kementerian NOUN O
-luar NOUN O
-negeri NOUN O
+kementerian NOUN B-ORG
+luar NOUN I-ORG
+negeri NOUN I-ORG
 menolak VERB O
 untuk ADP O
 berkomentar VERB O
