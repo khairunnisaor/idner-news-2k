@@ -4567,7 +4567,7 @@ Guinea PROPN B-LOC
 dan CCONJ O
 Sierra PROPN B-LOC
 Leone PROPN I-LOC
-, PUNCT
+, PUNCT O
 Afrika PROPN B-LOC
 . PUNCT O
 
@@ -11286,7 +11286,7 @@ mendarat VERB O
 di ADP O
 Halim PROPN B-LOC
 Perdanakusumah PROPN I-LOC
-, PUNCT
+, PUNCT O
 Jakarta PROPN B-LOC
 dari ADP O
 Yogyakarta PROPN B-LOC
@@ -19773,7 +19773,7 @@ lumpur NOUN O
 Lapindo PROPN O
 di ADP O
 Porong PROPN B-LOC
-, PUNCT
+, PUNCT O
 Sidoarjo PROPN B-LOC
 , PUNCT O
 Jawa PROPN B-LOC
@@ -28328,7 +28328,7 @@ gedung NOUN O
 BEI PROPN B-ORG
 di ADP O
 Sudirman PROPN B-LOC
-CBD PROPN I-ORG
+CBD PROPN I-LOC
 di ADP O
 Jakarta PROPN B-LOC
 . PUNCT O
@@ -31012,7 +31012,7 @@ menteri NOUN O
 di ADP O
 Istana PROPN B-LOC
 Negara PROPN I-LOC
-, PUNCT
+, PUNCT O
 Jakarta PROPN B-LOC
 , PUNCT O
 Selasa PROPN O
